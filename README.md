@@ -9,7 +9,7 @@
 </center>
 <h3>Introduction</h3>
 <p>I am lavanya, I am from maruthur, I love natures, I love my parents</p>
-<img src="img jpg" height="300px" width="300px">
+<img src="img.jpg" height="300px" width="300px">
 <h3>Studies</h3>
 <p>I am studing B.sc., computer science, In Dr. M. Sivakkannu art's and women's college</p>
 <img src="college.jpg">
